@@ -1,5 +1,5 @@
 {
-  "name": "smallbutton",
+  "name": "smallbuttontest",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -16,14 +16,8 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chaelaugh/smallButton.git"
-  },
-  "author": "chaecho",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/chaelaugh/smallButton/issues"
-  },
-  "homepage": "https://github.com/chaelaugh/smallButton#readme"
+  "author": "caizhicheng",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
 }
